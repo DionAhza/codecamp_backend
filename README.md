@@ -17,11 +17,11 @@ Pastikan sudah terinstall:
 Clone repository:
 
 ```bash
-git clone https://github.com/DionAhza/Payroll_app/
+git clone https://github.com/DionAhza/codecamp_backend/
 ```
 
 ```bash
-cd nama-project
+cd codecamp_backend
 ```
 
 ```bash
